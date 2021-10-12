@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace Sistema
 {
-    public partial class frm_menu : Form
+    public partial class frm_Produtos : Form
     {
-        public frm_menu()
+        public frm_Produtos()
         {
             InitializeComponent();
-        }
-
-        private void frm_menu_Load(object sender, EventArgs e)
-        {
-
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -27,7 +22,7 @@ namespace Sistema
 
         }
 
-        private void Usuário(object sender, PaintEventArgs e)
+        private void frm_Produtos_Load(object sender, EventArgs e)
         {
 
         }
