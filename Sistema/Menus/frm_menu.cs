@@ -28,10 +28,6 @@ namespace Sistema
             frm.Show();
         }
 
-        private void Usuário(object sender, PaintEventArgs e)
-        {
-
-        }
 
         private void btn_categorias_Click(object sender, EventArgs e)
         {
@@ -50,5 +46,7 @@ namespace Sistema
             frm_Categorias Frm = new frm_Categorias();
             Frm.Show();
         }
+
+        
     }
 }

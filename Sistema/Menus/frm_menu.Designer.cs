@@ -93,7 +93,7 @@ namespace Sistema
             this.btn_cad_produtos.Text = "Cadastrar Produtos";
             this.btn_cad_produtos.UseVisualStyleBackColor = true;
             this.btn_cad_produtos.Click += new System.EventHandler(this.Btn_Produtos_Click);
-            this.btn_cad_produtos.Paint += new System.Windows.Forms.PaintEventHandler(this.Usuário);
+            //this.btn_cad_produtos.Paint += new System.Windows.Forms.PaintEventHandler(this.Usuário);
             // 
             // btn_categorias
             // 

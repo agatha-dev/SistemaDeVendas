@@ -16,5 +16,15 @@ namespace Sistema
         {
             InitializeComponent();
         }
+
+        private void frm_Categorias_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
